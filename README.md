@@ -57,7 +57,7 @@ fraud-detection-system/
 
 ### Clone the repository
 
-git clone <repository-url>  
+git clone <https://github.com/Ritika331/Fraud-Detection-System->  
 cd fraud-detection-system  
 
 
